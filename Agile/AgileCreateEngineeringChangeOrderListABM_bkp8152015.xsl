@@ -1,3 +1,4 @@
+<!-- To check the stash command -->
 <?xml version = '1.0' encoding = 'UTF-8'?>
 <?oracle-xsl-mapper <!-- SPECIFICATION OF MAP SOURCES AND TARGETS, DO NOT MODIFY. -->
   <mapSources>
